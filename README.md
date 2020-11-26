@@ -4,7 +4,7 @@ Sample code to demonstrate how to filter ethereum event & subscript event.
 ## Get started
 
 ```bash
-clone 
+git clone https://github.com/huahuayu/ethevent.git
 cd ethevent
 go build ./...
 ```
